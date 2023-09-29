@@ -1,6 +1,6 @@
-# fsdfsdf - [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Read Me Generator SAMPLE - [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ## Description
-  sdfsdf
+  This project quickly generates a README.md file automatically based on user input.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -11,20 +11,20 @@
   - [Questions](#questions)
 
   ## Installation
-  sdfsdf
+  Installation instructions will be listed here.
 
   ## Usage
-  sdfsd
+  Streamlining productivity.
 
   ## Licensing
   This project is licensed under Apache 2.0 license. [Read more about this license here.](https://www.apache.org/licenses/LICENSE-2.0)
 
   ## Testing
-  fsfsd
+  Any and all testing informatino will be listed here.
 
   ## Contributions
-  fsdfsdf
+  Any contributors to a given are listed here.
 
   ## Questions
-  Should you have any questions regarding this project, contact me via email at fsdfds.
-  You can also find me on GitHub at https://github.com/fdsfsdfsdf.
+  Should you have any questions regarding this project, contact me via email at testing@github.com.
+  You can also find me on GitHub at https://github.com/jmpre28.
