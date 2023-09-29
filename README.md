@@ -30,5 +30,6 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 ## Video Demonstration
-Below is a link to the demo of the app, or you may scan the QR code:
+Below is a link to the demo of the app:
+<a href='https://drive.google.com/file/d/1Wx4Z1xq_cPtphVgky-jOkc4BStfg3aM9/view'>Click me to view walkthrough!</a>
 
