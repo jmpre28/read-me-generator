@@ -34,16 +34,13 @@ const questions = [
         message: 'Please describe any testing instructions for this project.'
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'Choose a license for this project. If no license is needed, enter "None".',
-        license_list: [
+        choices: [
+            'MIT License',
             'Apache 2.0',
-            'MIT',
-            'Unlicense',
-            'EPL 1.0',
-            'GPLv3',
-            'MPL 2.0',
+            'Mozilla 2.0',
             'None'
         ]
     },
@@ -64,7 +61,7 @@ function init() {
         .prompt(questions)
         .then((data) => {
             fs.writeFile('./testing/README.md', generateMarkdown(data), (err) =>
-            err ? console.log(err) : console.log('README.md file has successfully been created.'))
+            err ? console.log(err) : console.log('Your README.md file has successfully been created.'))
         });
 };
 
