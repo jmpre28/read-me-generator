@@ -1,30 +1,30 @@
-# Read Me Generator SAMPLE - [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# ReadME Generator SAMPLE - [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ## Description
-  This project quickly generates a README.md file automatically based on user input.
+  Creates a readme.md file for a user
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Licensing](#licensing)
-  - [Contributions](#contributions)
+  - [License](#license)
+  - [Contributing](#contributing)
   - [Testing](#testing)
   - [Questions](#questions)
 
   ## Installation
-  Installation instructions will be listed here.
+  Installation instructions will be listed here
 
   ## Usage
-  Streamlining productivity.
+  to streamline productivity
 
-  ## Licensing
+  ## License
   This project is licensed under Apache 2.0 license. [Read more about this license here.](https://www.apache.org/licenses/LICENSE-2.0)
 
-  ## Testing
-  Any and all testing informatino will be listed here.
+  ## Tests
+  Testing information will be listed here
 
   ## Contributions
-  Any contributors to a given are listed here.
+  Any contributors will be listed here
 
   ## Questions
-  Should you have any questions regarding this project, contact me via email at testing@github.com.
-  You can also find me on GitHub at https://github.com/jmpre28.
+  Should you have any questions regarding this project, contact me via email at jacobpreciado@gmail.com.
+  You can also find me on GitHub at https://github.com/jmpre28/.
