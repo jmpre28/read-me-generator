@@ -1,7 +1,7 @@
 # Read-Me-Generator
 
 This project uses Node.js to generate a quality README.md file for a user and their project.
-Inquirer package is used to gather the any and all relevant information for the creatin of the 
+Inquirer package is used to gather any and all relevant information for the creation of the 
 file.
 
 ### User Story
